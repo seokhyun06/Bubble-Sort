@@ -16,10 +16,11 @@
 
 1-4. [1,2,3,4,5]
 - 5를 4와 비교하여 더 큰 숫자(5)가 뒤로 물러난다.
+![Bubble_Sort](https://user-images.githubusercontent.com/122009563/223409918-e4c9dd25-4534-4a76-95bd-b68e88d32706.gif)
 
 # Code
-![image](https://user-images.githubusercontent.com/122009563/223351493-2965b156-89f0-4999-b216-aff7fbcdeb2f.png)
+![image](https://user-images.githubusercontent.com/122009563/223409342-fdb8fe1e-dfda-4380-be77-8562e1390e9b.png)
 
 # 실행결과
-![image](https://user-images.githubusercontent.com/122009563/223351525-43eae4fb-babe-4721-b475-834d730fa232.png)
+![image](https://user-images.githubusercontent.com/122009563/223409295-4d34bed4-4646-43b0-876f-0c82e5f49ab1.png)
 
