@@ -16,6 +16,7 @@
 
 1-4. [1,2,3,4,5]
 - 5를 4와 비교하여 더 큰 숫자(5)가 뒤로 물러난다.
+
 ![Bubble_Sort](https://user-images.githubusercontent.com/122009563/223409918-e4c9dd25-4534-4a76-95bd-b68e88d32706.gif)
 
 # Code
