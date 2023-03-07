@@ -18,3 +18,8 @@
 - 5를 4와 비교하여 더 큰 숫자(5)가 뒤로 물러난다.
 
 # Code
+![image](https://user-images.githubusercontent.com/122009563/223351493-2965b156-89f0-4999-b216-aff7fbcdeb2f.png)
+
+# 실행결과
+![image](https://user-images.githubusercontent.com/122009563/223351525-43eae4fb-babe-4721-b475-834d730fa232.png)
+
