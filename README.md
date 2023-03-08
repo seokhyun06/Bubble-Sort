@@ -19,7 +19,7 @@
 
 ![Bubble_Sort](https://user-images.githubusercontent.com/122009563/223409918-e4c9dd25-4534-4a76-95bd-b68e88d32706.gif)
 
-# Code
+# JAVA Code
 ![image](https://user-images.githubusercontent.com/122009563/223409342-fdb8fe1e-dfda-4380-be77-8562e1390e9b.png)
 
 # 실행결과
